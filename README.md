@@ -32,14 +32,6 @@
       height="30" 
       width="40" />
   </a>
-  <a href="https://www.instagram.com/_jay_jain_04/" target="_blank">
-    <img 
-      align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-      alt="_jay_jain_04" 
-      height="30" 
-      width="40" />
-  </a>
 </p>
 
 <p align="left">
