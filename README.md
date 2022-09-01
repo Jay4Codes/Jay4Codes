@@ -51,12 +51,6 @@
     <a href="https://www.w3schools.com/css/" target="_blank">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
     </a> 
-    <a href="https://dart.dev" target="_blank">
-      <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/>
-    </a> 
     <a href="https://flutter.dev" target="_blank"> 
       <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
     </a> 
@@ -77,7 +71,7 @@
     </a> 
     <a href="https://heroku.com" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-    </a> 
+    </a>
     <a href="https://postman.com" target="_blank" rel="noreferrer">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
     </a>
