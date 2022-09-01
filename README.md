@@ -1,7 +1,7 @@
 <p>
   <h1 align="center">Hi 👋, I'm Jay Jain</h1>
-  <h3 align="center">A passionate Full-Stack Developer from Mumi, India</h3>
-  <p align="left">
+  <h3 align="center">A passionate Full-Stack Developer from Mumbai, India</h3>
+  <p align="center">
     - 🎓 Third Year CSE Data Science student at D. J. Sanghvi College of Engineering<br>
     - 🔭 I’m currently working on Backend Cloud Platforms and Development<br>
     - 🌱 I’m currently learning Software Develpment and Machine Learning<br>
@@ -9,9 +9,7 @@
     - 📫 How to reach me <a href="mailto:jay4emails@gmail.com" target="_blank">jay4emails@gmail.com</a><br>
     - 👨‍💻 Working for <a href="https://www.citjo.in" target="_blank">CitJo</a> as AWS Backend Cloud Architect<br>
     - 🥇 KJSCE Hack 6.0 Winner 2022<br>
-  </p>
-  <p align="right">
-  <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="200" height="200"/>
+    <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="200" height="200"/>
   </p>
   <p align="right"> 
       <h3>Profile Views :-</h3>
