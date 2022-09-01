@@ -77,12 +77,18 @@
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/nodejs.svg" alt="nodejs" width="40" height="40"/>
     </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+    </a>
     <a href="https://www.mysql.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/mysql.svg" alt="mysql" width="40" height="40"/>
     </a>
     <a href="https://flutter.dev" target="_blank"> 
       <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/flutter.svg" alt="flutter" width="40" height="40"/> 
     </a>
+    <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank">
+      <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/flask.svg" alt="flask" width="40" height="40"/>
+    </a> 
     <a href="https://www.w3schools.com/css/" target="_blank">
       <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/css-3.svg" alt="css3" width="40" height="40"/>
     </a> 
