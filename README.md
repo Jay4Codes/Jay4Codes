@@ -137,8 +137,4 @@
   <a href="https://git.io/streak-stats" align="middle">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=jay4codes&theme=react&background=0d1117&border=666">
   </a>
-  <br>
-  <a href="https://github.com/jay4codes/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=jay4codes&theme=react-dark&hide_border=true">
-  </a>
 </p>
