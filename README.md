@@ -127,9 +127,6 @@
   <a href="https://github.com/jay4codes/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=jay4codes&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444" height="165">
   </a>
-  <div align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=jay4codes&column=6&theme=onedark" align="center"/>
-  </div>
 </p>
 
 <h1 align="center"> Contributions</h1>
