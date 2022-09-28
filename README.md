@@ -135,4 +135,3 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=jay4codes&theme=react&background=0d1117&border=666">
   </a>
 </p>
-[![@jayjain's Holopin board](https://holopin.io/api/user/board?user=jayjain)](https://holopin.io/@jayjain)
