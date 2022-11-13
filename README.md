@@ -6,7 +6,6 @@
   - 🌱 I’m currently learning Software Develpment and Machine Learning<br>
   - 👯 I’m looking to collaborate on Open Source, Development, Computer Vision, and Machine Learning Projects<br>
   - 📫 Reach out to me at <a href="mailto:jay4emails@gmail.com" target="_blank">jay4emails@gmail.com</a><br>
-  - 👨‍💻 Working for <a href="https://www.citjo.in" target="_blank">CitJo</a> as AWS Backend Cloud Architect<br>
   - 🥇 3x Hackathon Winner - 1st Place KJSCE Hack 6.0, 3rd Place Baker Hughes Data Viz Challenge Datathon, etc. <br>
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="200" height="200"/>
 </p>
