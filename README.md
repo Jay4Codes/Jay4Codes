@@ -125,7 +125,7 @@
 <p align="center">
   <a href="https://github.com/jay4codes/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=jay4codes&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444" height="165">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay4codes&layout=compact">
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay4codes&layout=compact"> -->
   </a>
 </p>
 
