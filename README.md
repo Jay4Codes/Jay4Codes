@@ -56,63 +56,63 @@
     <img src="https://jay-jain.netlify.app/icons/django.svg" alt="django" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/postman.svg" alt="postman" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/postman.svg" alt="postman" width="40" height="40"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/firebase.svg" alt="firebase" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/firebase.svg" alt="firebase" width="40" height="40"/>
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/google-cloud-platform.svg" alt="gcp" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/google-cloud-platform.svg" alt="gcp" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/nodejs.svg" alt="nodejs" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/nodejs.svg" alt="nodejs" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/mysql.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/mysql.svg" alt="mysql" width="40" height="40"/>
   </a>
   <a href="https://flutter.dev" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/flutter.svg" alt="flutter" width="40" height="40"/> 
+    <img src="https://jay-jain.netlify.app/icons/flutter.svg" alt="flutter" width="40" height="40"/> 
   </a>
   <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/flask.svg" alt="flask" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/flask.svg" alt="flask" width="40" height="40"/>
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/css-3.svg" alt="css3" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/css-3.svg" alt="css3" width="40" height="40"/>
   </a> 
   <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/html-5.svg" alt="html5" width="40" height="40"/> 
+    <img src="https://jay-jain.netlify.app/icons/html-5.svg" alt="html5" width="40" height="40"/> 
   </a>
   <h4>Machine Learning</h4>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/tensorflow.svg" alt="tensorflow" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/tensorflow.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/opencv.svg" alt="opencv" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/opencv.svg" alt="opencv" width="40" height="40"/>
   </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
   <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/d3.svg" alt="d3" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/d3.svg" alt="d3" width="40" height="40"/>
   </a>
   <h4>Others</h4>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/git-icon.svg" alt="git" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/git-icon.svg" alt="git" width="40" height="40"/>
   </a>
   <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/netlify.svg" alt="netlify" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/netlify.svg" alt="netlify" width="40" height="40"/>
   </a>
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/figma.svg" alt="figma" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/figma.svg" alt="figma" width="40" height="40"/>
   </a>
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
