@@ -4,9 +4,9 @@
   - 🎓 Third Year CSE Data Science student at D. J. Sanghvi College of Engineering<br>
   - 🔭 I’m currently working on Backend Cloud Platforms and Development<br>
   - 🌱 I’m currently learning Software Develpment and Machine Learning<br>
-  - 👯 I’m looking to collaborate on Open Source, Development, Computer Vision, and Machine Learning Projects<br>
-  - 📫 Reach out to me at <a href="mailto:jay4emails@gmail.com" target="_blank">jay4emails@gmail.com</a><br>
-  - 🥇 3x Hackathon Winner - 1st Place KJSCE Hack 6.0, 3rd Place Baker Hughes Data Viz Challenge Datathon, etc. <br>
+  - 👯 I’m looking to collaborate on Open Source, Development, and Machine Learning Projects<br>
+  - 📫 Reach out to me at <a href="https://jay-jain.netlify.app/" target="_blank">Jay's Portfolio</a><br>
+  - 🥇 3x Hackathon Winner - 1st Place KJSCE Hack 6.0, 3rd Place Baker Hughes Data Viz Challenge, etc. <br>
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="200" height="200"/>
 </p>
 <p align="right"> 
@@ -36,7 +36,7 @@
 <p align="left">
   <h3>Skills</h3>
   <h4>Languages</h4>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
+  <a href="" target="_blank">
     <img src="https://jay-jain.netlify.app/icons/cpp.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -52,7 +52,7 @@
     <img src="https://jay-jain.netlify.app/icons/sql.png" alt="sql" width="40" height="40"/>
   </a>
   <a href="https://www.swi-prolog.org/" target="_blank">
-    <img src="https://jay-jain.netlify.app/icons/sql.png" alt="prolog" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/prolog.svg" alt="prolog" width="40" height="40"/>
   </a>
   <h4>Development</h4>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -71,13 +71,10 @@
     <img src="https://jay-jain.netlify.app/icons/firebase.svg" alt="firebase" width="40" height="40"/>
   </a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://jay-jain.netlify.app/icons/google-cloud-platform.svg" alt="gcp" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/gcp.svg" alt="gcp" width="40" height="40"/>
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://jay-jain.netlify.app/icons/nodejs.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank"> 
-    <img src="https://jay-jain.netlify.app/icons/flutter.svg" alt="flutter" width="40" height="40"/> 
   </a>
   <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank">
     <img src="https://jay-jain.netlify.app/icons/flask.svg" alt="flask" width="40" height="40"/>
@@ -101,18 +98,25 @@
   <a href="https://graphql.org/" target="_blank">
     <img src="https://jay-jain.netlify.app/icons/graphql.svg" alt="graphql" width="40" height="40"/>
   </a>
+  <h4>Data Science</h4>
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://jay-jain.netlify.app/icons/excel.png" alt="excel" width="40" height="40"/>
+  </a>  
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://jay-jain.netlify.app/icons/pandas.png" alt="pandas" width="40" height="40"/>
+  </a>
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://jay-jain.netlify.app/icons/tableau.svg" alt="tableau" width="40" height="40"/>
+  </a>
+  <a href="https://d3js.org/" target="_blank" rel="noreferrer">
+    <img src="https://jay-jain.netlify.app/icons/d3.svg" alt="d3" width="40" height="40"/>
+  </a>
   <h4>Machine Learning</h4>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://jay-jain.netlify.app/icons/tensorflow.svg" alt="tensorflow" width="40" height="40"/>
   </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://jay-jain.netlify.app/icons/opencv.svg" alt="opencv" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
-  <a href="https://d3js.org/" target="_blank" rel="noreferrer">
-    <img src="https://jay-jain.netlify.app/icons/d3.svg" alt="d3" width="40" height="40"/>
   </a>
   <h4>Others</h4>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
