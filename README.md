@@ -36,9 +36,7 @@
 <p align="left">
   <h3>Skills</h3>
   <h4>Languages</h4>
-  <a href="" target="_blank">
-    <img src="https://jay-jain.netlify.app/icons/cpp.svg" alt="cplusplus" width="40" height="40"/> 
-  </a>
+  <img src="https://jay-jain.netlify.app/icons/cpp.svg" alt="cplusplus" width="40" height="40"/> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://jay-jain.netlify.app/icons/js.svg" alt="javascript" width="40" height="40"/>
   </a> 
@@ -48,9 +46,7 @@
   <a href="https://www.java.com/en/" target="_blank">
     <img src="https://jay-jain.netlify.app/icons/java.svg" alt="java" width="40" height="40"/>
   </a>
-  <a href="" target="_blank">
-    <img src="https://jay-jain.netlify.app/icons/sql.png" alt="sql" width="40" height="40"/>
-  </a>
+  <img src="https://jay-jain.netlify.app/icons/sql.png" alt="sql" width="40" height="40"/>
   <a href="https://www.swi-prolog.org/" target="_blank">
     <img src="https://jay-jain.netlify.app/icons/prolog.svg" alt="prolog" width="40" height="40"/>
   </a>
@@ -89,9 +85,7 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://jay-jain.netlify.app/icons/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
   </a>
-    <a href="" target="_blank" rel="noreferrer">
-    <img src="https://jay-jain.netlify.app/icons/nosql.svg" alt="nsql" width="40" height="40"/>
-  </a>
+  <img src="https://jay-jain.netlify.app/icons/nosql.svg" alt="nsql" width="40" height="40"/>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://jay-jain.netlify.app/icons/mysql.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -99,14 +93,24 @@
     <img src="https://jay-jain.netlify.app/icons/graphql.svg" alt="graphql" width="40" height="40"/>
   </a>
   <h4>Data Science</h4>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="https://jay-jain.netlify.app/icons/excel.png" alt="excel" width="40" height="40"/>
-  </a>  
+  <img src="https://jay-jain.netlify.app/icons/excel.png" alt="excel" width="40" height="40"/>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://jay-jain.netlify.app/icons/pandas.png" alt="pandas" width="40" height="40"/>
   </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://jay-jain.netlify.app/icons/numpy.png" alt="numpy" width="40" height="40"/>
+  </a>
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://jay-jain.netlify.app/icons/tableau.svg" alt="tableau" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://jay-jain.netlify.app/icons/scikit.png" alt="scikit-learn" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://jay-jain.netlify.app/icons/matplotlib.svg" alt="matplotlib" width="40" height="40"/>
+  </a>
+  <a href="https://plotly.com/" target="_blank" rel="noreferrer">
+    <img src="https://jay-jain.netlify.app/icons/plotly.svg" alt="plotly" width="40" height="40"/>
   </a>
   <a href="https://d3js.org/" target="_blank" rel="noreferrer">
     <img src="https://jay-jain.netlify.app/icons/d3.svg" alt="d3" width="40" height="40"/>
@@ -118,6 +122,10 @@
   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
     <img src="https://jay-jain.netlify.app/icons/opencv.svg" alt="opencv" width="40" height="40"/>
   </a>
+  <img src="https://jay-jain.netlify.app/icons/tsa.png" alt="TSA" width="40" height="40"/>
+  <img src="https://jay-jain.netlify.app/icons/cnn.png" alt="cnn" width="40" height="40"/>
+  <img src="https://jay-jain.netlify.app/icons/dl.png" alt="dl" width="40" height="40"/>
+  <img src="https://jay-jain.netlify.app/icons/artificial-intelligence.svg" alt="artificial-intelligence" width="40" height="40"/>
   <h4>Others</h4>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://jay-jain.netlify.app/icons/git-icon.svg" alt="git" width="40" height="40"/>
@@ -128,16 +136,24 @@
   <a href="https://heroku.com" target="_blank" rel="noreferrer">
     <img src="https://jay-jain.netlify.app/icons/heroku-icon.svg" alt="heroku" width="40" height="40"/>
   </a>
+  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://jay-jain.netlify.app/icons/vercel.svg" alt="vercel" width="40" height="40"/>
+  </a>
+  <a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank" rel="noreferrer">
+    <img src="https://jay-jain.netlify.app/icons/blender.svg" alt="after effects" width="40" height="40"/>
+  </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
     <img src="https://jay-jain.netlify.app/icons/adobe-photoshop.svg" alt="photoshop" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://jay-jain.netlify.app/icons/figma.svg" alt="figma" width="40" height="40"/>
   </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+    <img src="https://jay-jain.netlify.app/icons/streamlit.svg" alt="streamlit" width="40" height="40"/>
   </a>
-
+  <a href="https://blender.org/" target="_blank" rel="noreferrer">
+    <img src="https://jay-jain.netlify.app/icons/blender.svg" alt="blender" width="40" height="40"/>
+  </a>
 </p>
 <br>
 
