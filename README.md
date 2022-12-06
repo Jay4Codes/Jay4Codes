@@ -37,23 +37,23 @@
   <h3>Skills</h3>
   <h4>Languages</h4>
   <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+    <img src="https://jay-jain.netlify.app/icons/cpp.svg" alt="cplusplus" width="40" height="40"/> 
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/javascript.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/js.svg" alt="javascript" width="40" height="40"/>
   </a> 
   <a href="https://www.python.org" target="_blank">
     <img src="https://jay-jain.netlify.app/icons/python.svg" alt="python" width="40" height="40"/>
   </a>
   <h4>Development</h4>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/react.svg" alt="react" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/react.svg" alt="react" width="40" height="40"/>
   </a> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/aws.svg" alt="aws" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/aws.svg" alt="aws" width="40" height="40"/>
   </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/django.svg" alt="django" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/django.svg" alt="django" width="40" height="40"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/postman.svg" alt="postman" width="40" height="40"/>
