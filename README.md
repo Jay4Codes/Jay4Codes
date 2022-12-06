@@ -45,6 +45,15 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://jay-jain.netlify.app/icons/python.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://www.java.com/en/" target="_blank">
+    <img src="https://jay-jain.netlify.app/icons/java.svg" alt="java" width="40" height="40"/>
+  </a>
+  <a href="" target="_blank">
+    <img src="https://jay-jain.netlify.app/icons/sql.png" alt="sql" width="40" height="40"/>
+  </a>
+  <a href="https://www.swi-prolog.org/" target="_blank">
+    <img src="https://jay-jain.netlify.app/icons/sql.png" alt="prolog" width="40" height="40"/>
+  </a>
   <h4>Development</h4>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://jay-jain.netlify.app/icons/react.svg" alt="react" width="40" height="40"/>
@@ -67,12 +76,6 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://jay-jain.netlify.app/icons/nodejs.svg" alt="nodejs" width="40" height="40"/>
   </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://jay-jain.netlify.app/icons/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://jay-jain.netlify.app/icons/mysql.svg" alt="mysql" width="40" height="40"/>
-  </a>
   <a href="https://flutter.dev" target="_blank"> 
     <img src="https://jay-jain.netlify.app/icons/flutter.svg" alt="flutter" width="40" height="40"/> 
   </a>
@@ -84,6 +87,19 @@
   </a> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://jay-jain.netlify.app/icons/html-5.svg" alt="html5" width="40" height="40"/> 
+  </a>
+  <h4>Databases</h4>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://jay-jain.netlify.app/icons/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+    <a href="" target="_blank" rel="noreferrer">
+    <img src="https://jay-jain.netlify.app/icons/nosql.svg" alt="nsql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://jay-jain.netlify.app/icons/mysql.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://graphql.org/" target="_blank">
+    <img src="https://jay-jain.netlify.app/icons/graphql.svg" alt="graphql" width="40" height="40"/>
   </a>
   <h4>Machine Learning</h4>
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
