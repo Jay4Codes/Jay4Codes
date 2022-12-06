@@ -43,7 +43,7 @@
     <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/javascript.svg" alt="javascript" width="40" height="40"/>
   </a> 
   <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/tomchen/stack-icons/634d5c036a2a7ca0115c94ab2ce86c7e79e01e13/logos/python.svg" alt="python" width="40" height="40"/>
+    <img src="https://jay-jain.netlify.app/icons/python.svg" alt="python" width="40" height="40"/>
   </a>
   <h4>Development</h4>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
