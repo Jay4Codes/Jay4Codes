@@ -90,7 +90,9 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://jay-jain.netlify.app/icons/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
   </a>
-  <img src="https://jay-jain.netlify.app/icons/nosql.svg" alt="nsql" width="40" height="40"/>
+  <a href="#">
+    <img src="https://jay-jain.netlify.app/icons/nosql.svg" alt="nsql" width="40" height="40"/>
+  </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://jay-jain.netlify.app/icons/mysql.svg" alt="mysql" width="40" height="40"/>
   </a>
