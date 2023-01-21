@@ -189,3 +189,7 @@
     <img src="http://github-readme-streak-stats.herokuapp.com?user=jay4codes&theme=react&background=0d1117&border=666">
   </a>
 </p>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
