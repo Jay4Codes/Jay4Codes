@@ -6,7 +6,7 @@
   + 🌱 I’m currently learning Software Develpment and Machine Learning<br>
   + 👯 I’m looking to collaborate on Open Source, Development, and Machine Learning Projects<br>
   + 📫 Reach out to me at <a href="https://jay-jain.netlify.app/" target="_blank">Jay's Portfolio</a><br>
-  + 🥇 4x Hackathon Winner - 1st Place KJSCE Hack 6.0, 3rd Place Baker Hughes Data Viz Challenge, etc. <br>
+  + 🥇 5x Hackathon Winner - 1st Place KJSCE Hack 6.0, 3rd Place Baker Hughes Data Viz Challenge, etc. <br>
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="200" height="200"/>
 </p>
 <p align="right"> 
