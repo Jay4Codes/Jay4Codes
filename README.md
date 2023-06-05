@@ -7,7 +7,7 @@
   + 👯 I’m looking to collaborate on Open Source, Development, and Machine Learning Projects<br>
   + 📫 Reach out to me at <a href="https://jay-jain.netlify.app/" target="_blank">Jay's Portfolio</a><br>
   + 📃 My <a href ="https://docs.google.com/document/d/1Ep7OppV-X7o_bXbw_TiIAV-t1M0IGAudBJhZThfsxAI/edit?usp=sharing">Resume</a><br>
-  + 🥇 8x Hackathon Winner <br>
+  + 🥇 10x Hackathon Winner <br>
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="200" height="200"/>
 </p>
 <p align="right"> 
