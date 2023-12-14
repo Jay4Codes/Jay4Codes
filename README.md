@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Jain</h1>
 <h3 align="center">A passionate Software Developer from Mumbai, India</h3>
 <p align="left">
-  + 🎓 Final Year CSE Data Science student at D. J. Sanghvi College of Engineering<br>
+  + 🎓 Final Year CSE Data Science student at Dwarkadas J. Sanghvi College of Engineering<br>
   + 🔭 I’m currently working on Data Science and Machine Learning projects<br>
   + 🌱 I’m currently learning NLP and Data Science<br>
   + 👯 I’m looking to collaborate on Open Source, Development, and Machine Learning Projects<br>
