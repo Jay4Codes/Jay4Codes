@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Jay Jain</h1>
 <h3 align="center">A passionate Software Developer from Mumbai, India</h3>
 <p align="left">
-  + 🎓 Third Year CSE Data Science student at D. J. Sanghvi College of Engineering<br>
-  + 🔭 I’m currently working on Backend Cloud Platforms and Development<br>
-  + 🌱 I’m currently learning Software Develpment and Machine Learning<br>
+  + 🎓 Final Year CSE Data Science student at D. J. Sanghvi College of Engineering<br>
+  + 🔭 I’m currently working on Data Science and Machine Learning projects<br>
+  + 🌱 I’m currently learning NLP and Data Science<br>
   + 👯 I’m looking to collaborate on Open Source, Development, and Machine Learning Projects<br>
-  + 📫 Reach out to me at <a href="https://jay-jain.vercel.app/" target="_blank">Jay's Portfolio</a><br>
+  + 📫 Check out my portfolio at <a href="https://jay-jain.vercel.app/" target="_blank">Jay's Portfolio</a><br>
   + 📃 My <a href ="https://docs.google.com/document/d/1Ep7OppV-X7o_bXbw_TiIAV-t1M0IGAudBJhZThfsxAI/edit?usp=sharing">Resume</a><br>
-  + 🥇 10x Hackathon Winner - ET Campus Star 2023, Texas A&M University Datathon, Google Developer Student Club's Cloudathon, Tri-Nit Hackathon and many more<br>
+  + 🥇 10x Hackathon Winner - ET Campus Star 2023, Texas A&M University Datathon, Google Developer Student Club's Cloudathon, Tri-Nit Hackathon and more<br>
   <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="200" height="200"/>
 </p>
 <p align="right"> 
