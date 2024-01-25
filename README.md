@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Final Year Computer Science | Data Science Undergraduate from Mumbai, India</h3>
 <p align="left">
   + 🎓 Final Year CSE Data Science student at Dwarkadas J. Sanghvi College of Engineering<br>
-  + 🔭 I’m currently working on Data Science and Machine Learning projects<br>
+  + 🔭 I’m currently working on Backend Development, Data Science and Machine Learning projects<br>
   + 🌱 I’m currently learning NLP and Data Science<br>
-  + 👯 I’m looking to collaborate on Open Source, Development, and Machine Learning Projects<br>
+  + 👯 I’m looking to collaborate on Backend Development and Machine Learning Projects<br>
   + 📫 Check out my portfolio at <a href="https://jay-jain.vercel.app/" target="_blank">Jay's Portfolio</a><br>
   + 📃 My <a href ="https://docs.google.com/document/d/1Ep7OppV-X7o_bXbw_TiIAV-t1M0IGAudBJhZThfsxAI/edit?usp=sharing">Resume</a><br>
   + 🥇 10x Hackathon Winner - ET Campus Star 2023, Texas A&M University Datathon, Google Developer Student Club's Cloudathon, Tri-Nit Hackathon and more<br>
