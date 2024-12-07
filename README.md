@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jay Jain</h1>
-<h3 align="center">Software Developer and Machine Learning Engineer with expertise in Financial Markets and Manufacturing domain from Mumbai, India</h3>
+<h3 align="center">Software Developer and Machine Learning Engineer with expertise in Financial Markets and Manufacturing industry from Mumbai, India</h3>
 <p align="left">
-  + 📃 Prev - Dolat Capital, Bajaj Finserv Health, Baker Hughes and 3 startups
+  + 📃 Prev - Dolat Capital, Bajaj Finserv Health, Baker Hughes and 3 startups<br>
   + 🎓 Computer Science and Engineering (Data Science) Graduate from  University of Mumbai<br>
   + 🔭 I’m currently working on Backend Development, Data Science and Machine Learning projects<br>
   + 🌱 I’m currently learning NLP and Data Science<br>
