@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jay Jain</h1>
-<h3 align="center">A passionate Final Year Computer Science | Data Science Undergraduate from Mumbai, India</h3>
+<h3 align="center">Software Developer and Machine Learning Engineer with expertise in Financial Markets and Manufacturing domain from Mumbai, India</h3>
 <p align="left">
-  + 🎓 Final Year CSE Data Science student at Dwarkadas J. Sanghvi College of Engineering<br>
+  + 📃 Prev - Dolat Capital, Bajaj Finserv Health, Baker Hughes and 3 startups
+  + 🎓 Computer Science and Engineering (Data Science) Graduate from  University of Mumbai<br>
   + 🔭 I’m currently working on Backend Development, Data Science and Machine Learning projects<br>
   + 🌱 I’m currently learning NLP and Data Science<br>
   + 👯 I’m looking to collaborate on Backend Development and Machine Learning Projects<br>
